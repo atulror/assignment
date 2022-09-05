@@ -1,0 +1,10 @@
+.container{
+    width: 60%;
+    background-color: rgb(226, 226, 226);
+    border: 3px solid rgb(110,103,228);
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    min-height: 300px;
+}
